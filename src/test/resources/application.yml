@@ -1,0 +1,9 @@
+eureka:
+  client:
+    enabled: false
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
+
+wiremock-port: 10111
